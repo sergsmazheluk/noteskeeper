@@ -1,1 +1,6 @@
-<Solution />
+<Solution>
+  <Project Path="Notes.Application/Notes.Application.csproj" />
+  <Project Path="Notes.Domain/Notes.Domain.csproj" />
+  <Project Path="Notes.Persistence/Notes.Persistence.csproj" />
+  <Project Path="Notes.WebApi/Notes.WebApi.csproj" />
+</Solution>
