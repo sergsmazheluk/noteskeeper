@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Serzh\\source\\repos\\noteskeeper\\Notes.Backend\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE276F63-85C1-3F60-6CD3-6715FE45985A}|Notes.Domain\\Notes.Domain.csproj|c:\\users\\serzh\\source\\repos\\noteskeeper\\notes.backend\\notes.domain\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE276F63-85C1-3F60-6CD3-6715FE45985A}|Notes.Domain\\Notes.Domain.csproj|solutionrelative:notes.domain\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B54F9D73-15DB-BC2E-52D0-342B034786B9}|Notes.WebApi\\Notes.WebApi.csproj|c:\\users\\serzh\\source\\repos\\noteskeeper\\notes.backend\\notes.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B54F9D73-15DB-BC2E-52D0-342B034786B9}|Notes.WebApi\\Notes.WebApi.csproj|solutionrelative:notes.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +27,31 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\Serzh\\source\\repos\\noteskeeper\\Notes.Backend\\Notes.Domain\\Note.cs",
+              "RelativeDocumentMoniker": "Notes.Domain\\Note.cs",
+              "ToolTip": "C:\\Users\\Serzh\\source\\repos\\noteskeeper\\Notes.Backend\\Notes.Domain\\Note.cs",
+              "RelativeToolTip": "Notes.Domain\\Note.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T19:29:38.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Serzh\\source\\repos\\noteskeeper\\Notes.Backend\\Notes.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Notes.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Serzh\\source\\repos\\noteskeeper\\Notes.Backend\\Notes.WebApi\\Program.cs",
+              "RelativeToolTip": "Notes.WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T18:55:42.141Z"
             }
           ]
         }
