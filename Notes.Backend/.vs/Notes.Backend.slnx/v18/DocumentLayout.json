@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Serzh\\source\\repos\\noteskeeper\\Notes.Backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B54F9D73-15DB-BC2E-52D0-342B034786B9}|Notes.WebApi\\Notes.WebApi.csproj|c:\\users\\serzh\\source\\repos\\noteskeeper\\notes.backend\\notes.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B54F9D73-15DB-BC2E-52D0-342B034786B9}|Notes.WebApi\\Notes.WebApi.csproj|solutionrelative:notes.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CE276F63-85C1-3F60-6CD3-6715FE45985A}|Notes.Domain\\Notes.Domain.csproj|c:\\users\\serzh\\source\\repos\\noteskeeper\\notes.backend\\notes.domain\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE276F63-85C1-3F60-6CD3-6715FE45985A}|Notes.Domain\\Notes.Domain.csproj|solutionrelative:notes.domain\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Serzh\\source\\repos\\noteskeeper\\Notes.Backend\\Notes.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "Notes.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Serzh\\source\\repos\\noteskeeper\\Notes.Backend\\Notes.WebApi\\appsettings.json",
+              "RelativeToolTip": "Notes.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-20T20:59:17.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Note.cs",
               "DocumentMoniker": "C:\\Users\\Serzh\\source\\repos\\noteskeeper\\Notes.Backend\\Notes.Domain\\Note.cs",
               "RelativeDocumentMoniker": "Notes.Domain\\Note.cs",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Serzh\\source\\repos\\noteskeeper\\Notes.Backend\\Notes.WebApi\\Program.cs",
               "RelativeDocumentMoniker": "Notes.WebApi\\Program.cs",
@@ -51,7 +68,8 @@
               "RelativeToolTip": "Notes.WebApi\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T18:55:42.141Z"
+              "WhenOpened": "2025-11-19T18:55:42.141Z",
+              "EditorCaption": ""
             }
           ]
         }
